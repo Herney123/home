@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Herney123/home/static/css/main.778eeed7.css",
+    "main.js": "/Herney123/home/static/js/main.269259fc.js",
+    "static/js/787.4b24f717.chunk.js": "/Herney123/home/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/Herney123/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/Herney123/home/index.html",
+    "main.778eeed7.css.map": "/Herney123/home/static/css/main.778eeed7.css.map",
+    "main.269259fc.js.map": "/Herney123/home/static/js/main.269259fc.js.map",
+    "787.4b24f717.chunk.js.map": "/Herney123/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.269259fc.js"
+  ]
+}
