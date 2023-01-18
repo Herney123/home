@@ -60,7 +60,7 @@ const about = {
 // If you want to display specfic projects, add the repository names,
 //      i.e ["repository-1", "repo-2"]
 const repos = {
-  show: false,
+  show: true,
   heading: "最近的项目",
   gitHubUsername: "Herney123", //i.e."johnDoe12Gh"
   reposLength: 4,
@@ -93,7 +93,7 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: true,
+  show: false,
   heading: "技能",
   hardSkills: [
     { name: "Python", value: 90 },
