@@ -16,10 +16,7 @@
 - [Sharing 💗](#sharing-)
 - [Prerequisites 🍪](#prerequisites-)
 - [Setup And Deployment 🔧](#setup-and-deployment-)
-- [Contributing 🙌](#contributing-)
-- [Issues](#issues)
-- [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
-- [Versão em Português :brazil:](#versao-em-portugues-)
+- [Contributing 🤝](#contributing-)
 
 ## Technology Stack 🛠️
 
@@ -118,6 +115,6 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
 Facing issues? Feel free to contact at herney123@gmail.com.
 
-## Notice:
+## Contributing 🤝
 
 This project is adapted from [Hashir Shoaib](https://github.com/hashirshoaeb/home)
