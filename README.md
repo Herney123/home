@@ -4,8 +4,6 @@
   <h1 align="center">Developer's Portfolio ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://herney123.github.io/home">herney123.github.io/home</a>
     <br />
     <br />
     <a href="https://herney123.github.io">About Me</a>
@@ -21,7 +19,6 @@
 - [Contributing 🙌](#contributing-)
 - [Issues](#issues)
 - [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
-- [Showcase 🚀](#showcase-)
 - [Versão em Português :brazil:](#versao-em-portugues-)
 
 ## Technology Stack 🛠️
@@ -121,88 +118,6 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
 Facing issues? Feel free to contact at herney123@gmail.com.
 
-## Showcase 🚀
-
-Have you changed something in the code to create your own version? Feel free to share with me, I will list them in this space.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/justiceserv/justiceserv.github.io">
-        <img src="READMEdocs/justiceserv-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Guhyun Chung</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/hamzasohail0/home/">
-        <img src="READMEdocs/hamzasohail0-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Hamza Sohail</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/AymunTariq/home/">
-        <img src="READMEdocs/aymuntariq-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Aymun Tariq</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anaashrafi/home/">
-        <img src="READMEdocs/anaashrafi-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Ana Ashrafi</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/jefferyjohn/home/">
-        <img src="READMEdocs/jefferyjohn-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Jeffery John</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/remimestdagh/home/">
-        <img src="READMEdocs/remimestdagh-github-io-home.gif" width="300px" alt="" />
-        <br />
-        <sub><b>Remi Mestdagh</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-      <a href="https://github.com/xunxdd/portfolio/tree/master">
-        <br />
-        <sub><b>Xun Ding</b></sub>
-      </a>
-      <br />
-    </td>    
-    <td align="center">
-      <a href="https://github.com/S-Philp/Shannel.philp">
-        <br />
-        <sub><b>Shannel Philp</b></sub>
-      </a>
-      <br />
-    </td>    
-    <td align="center">
-      <a href="https://github.com/bibinvargheset/home">
-        <br />
-        <sub><b>Bibin Varghese</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
 ## Notice:
 
-This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/herney123/portfolio)
+This project is adapted from [Hashir Shoaib](https://github.com/hashirshoaeb/home)
