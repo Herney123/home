@@ -126,7 +126,7 @@ const getInTouch = {
   email: "gongwang12345@gmail.com",
   images: [
     {
-      img: "https://pictures-1257239071.cos.ap-nanjing.myqcloud.com/gw/wx.jpg",
+      img: "https://pictures-1257239071.cos.ap-nanjing.myqcloud.com/gw/zfb.jpg",
       label: "",
       paragraph: ""
     },
