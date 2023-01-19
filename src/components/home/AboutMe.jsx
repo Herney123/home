@@ -34,7 +34,11 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
 
 
   return (
-    <Jumbotron id="aboutme" className="m-0">
+    <Jumbotron
+        fluid
+        id="aboutme"
+        className="min-vh-100 d-flex flex-wrap m-0"
+        style={{backgroundSize: "1200% 1200%"}}>
       <div className="container row">
         <div className="col-5 d-none d-lg-block align-self-center">
           {showPic && (
@@ -55,7 +59,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
               <a
                 className="btn btn-outline-dark btn-lg"
                 href={resume}
-                target="_blank"
+                // target="_blank"
                 rel="noreferrer noopener"
                 role="button"
                 aria-label="Resume/CV"

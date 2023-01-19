@@ -50,8 +50,8 @@ const about = {
   imageLink: require("../editable-stuff/gw.jpg"),
   imageSize: 375,
   message:
-    "我是贡旺，现在有些话想和你说",
-  resume: "https://pics7.baidu.com/feed/0df3d7ca7bcb0a46701aa4d185214f2d6a60afee.jpeg@f_auto?token=7b877bc899780ad200db17dcec48da07",
+    "我叫贡旺，我本是京城的一名普通的打工人，看遍了这个城市的繁华和热闹，也体验了这个社会的冷漠与无情。直到那一天，我的生活被彻底打破。。。。。。",
+  resume: "/#leadership",
 };
 
 // PROJECTS SECTION
@@ -60,7 +60,7 @@ const about = {
 // If you want to display specfic projects, add the repository names,
 //      i.e ["repository-1", "repo-2"]
 const repos = {
-  show: true,
+  show: false,
   heading: "最近的项目",
   gitHubUsername: "Herney123", //i.e."johnDoe12Gh"
   reposLength: 4,
@@ -69,20 +69,20 @@ const repos = {
 
 // Leadership SECTION
 const leadership = {
-  show: false,
-  heading: "Leadership",
+  show: true,
+  heading: "后续",
   message:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
+    "今天是肯德基疯狂星期四，先V我50，我跟你讲后续发生的故事。",
   images: [
     { 
-      img: require("../editable-stuff/gw.jpg"),
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+      img: require("../editable-stuff/kfc1.jpg"),
+      label: "",
+      paragraph: "kfc 1"
     },
     { 
-      img: require("../editable-stuff/gw.jpg"),
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+      img: require("../editable-stuff/kfc2.jpg"),
+      label: "",
+      paragraph: "kfc 2"
     },
   ],
   imageSize: {
@@ -124,6 +124,22 @@ const getInTouch = {
   message:
     "这是我的联系方式，欢迎联系我",
   email: "gongwang12345@gmail.com",
+  images: [
+    {
+      img: require("../editable-stuff/zfb.jpg"),
+      label: "",
+      paragraph: ""
+    },
+    {
+      img: require("../editable-stuff/wx.jpg"),
+      label: "",
+      paragraph: ""
+    },
+  ],
+  imageSize: {
+    width:"300",
+    height:"500"
+  }
 };
 
 const experiences = {

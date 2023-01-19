@@ -92,6 +92,8 @@ const App = () => {
             heading={getInTouch.heading}
             message={getInTouch.message}
             email={getInTouch.email}
+            img={getInTouch.images}
+            imageSize={getInTouch.imageSize}
           />
         )}
       </Footer>
