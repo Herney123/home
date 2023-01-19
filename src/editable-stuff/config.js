@@ -75,12 +75,12 @@ const leadership = {
     "今天是肯德基疯狂星期四，先V我50，我跟你讲后续发生的故事。",
   images: [
     { 
-      img: require("../editable-stuff/kfc1.jpg"),
+      img: "https://pictures-1257239071.cos.ap-nanjing.myqcloud.com/gw/kfc1.jpg",
       label: "",
       paragraph: "kfc 1"
     },
     { 
-      img: require("../editable-stuff/kfc2.jpg"),
+      img: "https://pictures-1257239071.cos.ap-nanjing.myqcloud.com/gw/kfc2.jpg",
       label: "",
       paragraph: "kfc 2"
     },
@@ -126,12 +126,12 @@ const getInTouch = {
   email: "gongwang12345@gmail.com",
   images: [
     {
-      img: require("../editable-stuff/zfb.jpg"),
+      img: "https://pictures-1257239071.cos.ap-nanjing.myqcloud.com/gw/wx.jpg",
       label: "",
       paragraph: ""
     },
     {
-      img: require("../editable-stuff/wx.jpg"),
+      img: "https://pictures-1257239071.cos.ap-nanjing.myqcloud.com/gw/wx.jpg",
       label: "",
       paragraph: ""
     },
